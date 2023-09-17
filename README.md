@@ -64,6 +64,7 @@ To address the issue of missing values, we take the following action:
 
  
 Fig 5: Handling Missing Values
+
 The decision to drop rows with missing values should be made judiciously, considering the dataset's size, the significance of the missing data, and the objectives.
 
 Step 4: Data Deduplication
